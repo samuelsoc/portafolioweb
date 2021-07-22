@@ -1,4 +1,4 @@
 # portafolioweb
 My portafolio web.
 
-Esta sera la pagina web con alguns de los traajos que he realizado.
+Esta sera la pagina web con algunos de los trabajos que he realizado.
